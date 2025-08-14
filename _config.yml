@@ -1,9 +1,9 @@
 title: Open Coding 
 description: "Class of 2026"
-owner_name: John Mortensen
-github_username: jm1021 
-github_repo: "student" 
-baseurl: "/student" 
+owner_name: Sai Talisetty
+github_username: saiseahawks 
+github_repo: "studentCSA" 
+baseurl: "/studentCSA" 
 future: true
 remote_theme: jekyll/minima
 minima:
